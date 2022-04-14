@@ -232,7 +232,7 @@
   "APPLICATIONS__NEW__MESSAGE_MUST_BE_POSITIVE": "The value must be greater than 0",
   "APPLICATIONS__NEW__MESSAGE_UPDATE_DRAFT_ERROR": "An error occurred while saving the draft of the application, please try again later",
   "APPLICATIONS__NEW__MESSAGE_UPDATE_DRAFT_ROUTE_ERROR": "An error occurred while saving the route of the draft of the application, please try again later",
-  "APPLICATIONS__NEW__MESSAGE_INCORRECT_TOTAL_AXLES_LOAD": "Incorrect total axle load: {totalaxlesload} t from {roadtrainmass} t",
+  "APPLICATIONS__NEW__MESSAGE_INCORRECT_TOTAL_AXLES_LOAD": "Carga total por eje incorrecta: {totalaxlesload} t de {roadtrainmass} t",
   "APPLICATIONS__NEW__MESSAGE_DAMAGE_CALCULATE_ERROR": "An error occurred while calculating amount of damage, please try again later",
   "APPLICATIONS__NEW__MESSAGE_TRANSPORTATION_CARGO_OVERSIZE": "Transportation of divisible cargo with excess in size or weight is prohibited by traffic rules",
   "APPLICATIONS__NEW__MESSAGE_HEAVY_PERMIT_MAX_PERIOD": "A special permit for travel of a heavy vehicle is issued for a period of no more than 3 months",
